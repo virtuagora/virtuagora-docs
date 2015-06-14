@@ -1,0 +1,24 @@
+site_name: Virtuagora
+pages:
+- Inicio: 'index.md'
+- Introduccion:
+    - 'Instalacion': 'intro/instalacion.md'
+    - 'Conceptos': 'intro/conceptos.md'
+- Contenidos:
+    - 'Problemáticas': 'contenidos/problematicas.md'
+    - 'Propuestas': 'contenidos/propuestas.md'
+    - 'Documentos Colaborativos': 'contenidos/documentos.md'
+    - 'Novedades': 'contenidos/novedades.md'
+    - 'Eventos': 'contenidos/eventos.md'
+- Herramientas:
+    - 'Portal': 'herramientas/portal.md'
+    - 'Panel de usuario': 'herramientas/panel.md'
+    - 'Grupos Políticos': 'herramientas/grupos.md'
+    - 'Comentarios': 'herramientas/comentarios.md'
+- Administración:
+    - 'General': 'admin/general.md'
+    - 'Organismos': 'admin/organismos.md'
+    - 'Patrullas': 'admin/patrullas.md'
+- API:
+    - 'Introducción': 'api/introduccion.md'
+theme: readthedocs
