@@ -1,8 +1,8 @@
 site_name: Virtuagora
 pages:
 - Inicio: 'index.md'
-- Introduccion:
-    - 'Instalacion': 'intro/instalacion.md'
+- Introducción:
+    - 'Instalación': 'intro/instalacion.md'
     - 'Conceptos': 'intro/conceptos.md'
 - Contenidos:
     - 'Problemáticas': 'contenidos/problematicas.md'
