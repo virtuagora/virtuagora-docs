@@ -1,3 +1,3 @@
 # Bienvenido a Virtuagora
 
-En ésta página encontrará la documentación necesaria para conocer sobre la plataforma y su instalación.
+En ésta página se encuentra la documentación necesaria para conocer la plataforma y los pasos de su instalación.

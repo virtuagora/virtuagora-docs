@@ -38,14 +38,14 @@ utilizar el método anterior por el momento.
 
 Con un editor de texto, abrir el archivo `app/database.php` y modificar las siguientes líneas:
 ```
-    'driver' => 'mysql',        // Opciones: pmysql, pgsql, sqlite o sqlsrv
-    'host' => 'localhost',      // Si la BD no está en el mismo servidor, ingresar su IP
-    'database' => 'virtuagora', // El nombre de la base de datos, debe estar creada de antemano y estar vacía
-    'username' => 'root',       // Usuario con permisos para utilizar la base de datos anterior
-    'password' => '',           // Contraseña del usuario
-    'charset' => 'utf8',        // Dejar en utf8
-    'collation' => 'utf8_general_ci',
-    'prefix' => ''              // Prefijo para las tablas (no es necesario agregar uno)
+'driver' => 'mysql',        // Opciones: pmysql, pgsql, sqlite o sqlsrv
+'host' => 'localhost',      // Si la BD no está en el mismo servidor, ingresar su IP
+'database' => 'virtuagora', // El nombre de la base de datos, debe estar creada de antemano y estar vacía
+'username' => 'root',       // Usuario con permisos para utilizar la base de datos anterior
+'password' => '',           // Contraseña del usuario
+'charset' => 'utf8',        // Dejar en utf8
+'collation' => 'utf8_general_ci',
+'prefix' => ''              // Prefijo para las tablas (no es necesario agregar uno)
 ```
 Además, controlar que la última línea indique el huso horario correspondiente.
 ```
